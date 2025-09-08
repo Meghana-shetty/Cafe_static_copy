@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: cafe-app
+  name: Static-cafe-app
   description: Cafe products online booking app
   annotations:
-    github.com/project-slug: Meghana-shetty/cafe-static-website
+    github.com/project-slug: Meghana-shetty/Cafe_static_copy/Backstage_Meghana/cafe-static-website
 spec:
   type: service
   lifecycle: production
