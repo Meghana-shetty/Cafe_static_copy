@@ -4,8 +4,8 @@ metadata:
   name: cafe-app
   description: Cafe products online booking app
   annotations:
-    github.com/project-slug: sreepathysois/cafe-static-website
+    github.com/project-slug: Meghana-shetty/cafe-static-website
 spec:
   type: service
   lifecycle: production
-  owner: sreepathy
+  owner: user:guest
